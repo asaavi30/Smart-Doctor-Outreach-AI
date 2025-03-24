@@ -1,4 +1,4 @@
-# Smart Doctor AI Outreach
+# Smart Doctor Outreach AI
 
 ## Overview & Objective
 Doctors receive numerous survey invitations, but many go unanswered. This AI/ML-powered web app ensures invitations reach the right doctors at the right time. By analyzing login/logout times and past survey participation, it predicts which doctors are most likely to respond at a given time. Simply enter a preferred time, and the app generates a downloadable list of targeted NPIs, optimizing outreach efforts.
